@@ -1,0 +1,22 @@
+App launches with no errors.
+Menu forces the user to type random numbers to access different functionalities.
+App presents the following features:
+
+Afiseaza toti studentii.
+Afiseaza toate temele.
+Afiseaza toate notele.
+Adauga un nou student.
+Adauga o tema noua.
+Adauga o nota unui student pentru o tema.
+Sterge un student existent.
+Sterge o tema existenta.
+Actualizeaza datele unui student.
+Prelungeste deadline-ul unei teme.
+
+(App crashes sometimes, little to no error handling)
+
+-------
+
+source code not written in english - 
+student not added
+assignment added correctly
